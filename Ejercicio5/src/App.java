@@ -17,4 +17,7 @@ public class App {
         System.out.println("Linux");
         System.out.println("Distribucion Drivers");
     }
+        System.out.println("Distribucion Gnome");
+    }
+
 }
